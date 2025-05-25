@@ -1,6 +1,7 @@
 # image-cards
 
-🚗 **image-cards** — это современная веб-галерея автомобилей с эффектом увеличения карточек.  
-Галерея демонстрирует коллекцию спортивных автомобилей, где каждая карточка раскрывается в увеличенный вид при клике, создавая эффект "пролистывания" и фокуса на изображении.
+🚗 **image-cards** is a modern web gallery of sports cars with a smooth card expansion effect.  
+The gallery showcases a collection of sports cars, where each card smoothly expands when clicked, creating a dynamic "flip-through" and zoom effect.
 
-🌐 [Посетить сайт](https://medeu0.github.io/image-cards/)
+
+🌐 [Visit the site](https://medeu0.github.io/image-cards/)
